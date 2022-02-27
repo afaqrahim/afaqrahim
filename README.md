@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Afaq Rahim**.
 - 👀 I’m **Frontend Web Developer**.
-- 🌱 I’m currently learning **Backend**.
+- 🌱 I’m currently learning **Backend**, PHP, VueJS, ReactJs.
 - 📫 Contact Me @rahimaftab3@gmail.com
 
 <!---
